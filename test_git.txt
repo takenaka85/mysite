@@ -1,2 +1,2 @@
-gitのテスト中
-2020年5月1日
+git test now
+modify ver2
